@@ -1,0 +1,28 @@
+name: brendan.solorz
+favicon: null
+layout_spectrum: 0.4312734112609178
+typography_spectrum: 0.6663189870305359
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5214106917846948
+  lightness: 0.8756526904180646
+  saturation: 0.7309828496072441
+  rhythmicContrast: 0.3007989937905222
+purpose: []
