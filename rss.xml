@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[brendan.solorz]]></title>
         <description><![CDATA[brendan.solorz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brendan-solorz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 04:23:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 04:23:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brendan-solorz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/brendan-solorz/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">ec7c0b52-4922-45c4-bf42-13c8503a503b</guid>
+            <pubDate>Thu, 17 Dec 2015 04:23:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1346fbc9-da30-480d-a667-52885855b084.jpg">]]></description>
-            <link>undefinede929681f-fc56-4717-a9e2-844b5c61cca8/index.html</link>
+            <link>https://thegrid.ai/brendan-solorz/e929681f-fc56-4717-a9e2-844b5c61cca8/index.html</link>
             <guid isPermaLink="false">e929681f-fc56-4717-a9e2-844b5c61cca8</guid>
             <pubDate>Thu, 17 Dec 2015 04:23:24 GMT</pubDate>
         </item>
