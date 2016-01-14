@@ -2,6 +2,7 @@ name: brendan.solorz
 favicon: null
 layout_spectrum: 0.88377
 typography_spectrum: 0
+title: Portfolio
 cta:
   domain: null
   bucket: null
